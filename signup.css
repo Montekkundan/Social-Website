@@ -1,0 +1,82 @@
+* {
+    margin: 0;
+    background-color: #EEEEEE;
+}
+
+#bar {
+    height: 100px;
+    background-color: #06113C;
+    display: flex;
+}
+
+#bar2 {
+    background-color: #DDDDDD;
+    width: 800px;
+    margin: auto;
+    margin-top: 50px;
+    border-radius: 30px;
+    text-align: center;
+    padding-top: 50px;
+    padding-bottom: 25px;
+}
+
+#bar2>h2 {
+    font-family: 'Anton', sans-serif;
+    background-color: #DDDDDD;
+    color: #06113C;
+    font-size: 30px;
+    padding: 10px;
+}
+
+#bar2>span {
+    font-family: 'Anton', sans-serif;
+    background-color: #DDDDDD;
+    color: #06113C;
+    font-size: 22px;
+}
+
+a {
+    font-family: 'Anton', sans-serif;
+    background-color: #DDDDDD;
+    color: #06113C;
+    font-size: 22px;
+}
+
+#text {
+    width: 300px;
+    height: 40px;
+    font-size: 20px;
+    padding-left: 10px;
+    margin-bottom: 10px;
+    border-radius: 5px;
+    border: 1px solid #aaa;
+}
+
+#button {
+    width: 270px;
+    height: 40px;
+    font-size: large;
+    color: white;
+    background-color: #06113C;
+    border-radius: 5px;
+    margin-bottom: 20px;
+}
+
+.Title {
+    font-family: 'Anton', sans-serif;
+    background-color: #06113C;
+    color: white;
+    font-size: 40px;
+    padding: 10px;
+    display: flex;
+}
+
+.Subtitle {
+    font-family: 'Water Brush', cursive;
+    background-color: #06113C;
+    color: #FF8C32;
+    font-size: 35px;
+    float: right;
+    padding: 10px;
+    display: flex;
+}
